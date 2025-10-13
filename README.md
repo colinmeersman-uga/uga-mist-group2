@@ -1,5 +1,4 @@
-# Group 2 Mist 4610 Group Project 1
-MIST 4610 - Group Project 1 - Group #2
+# Group 2 MIST 4610 Group Project 1
 
 ## Team Name
 15058 Group 2 
