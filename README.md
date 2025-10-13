@@ -1,4 +1,4 @@
-# uga-mist-group2
+# Group 2 Mist 4610 Group Project 1
 MIST 4610 - Group Project 1 - Group #2
 
 ## Team Name
