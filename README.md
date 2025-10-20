@@ -1,4 +1,4 @@
-# Group 2 MIST 4610 Group Project 1
+Data # Group 2 MIST 4610 Group Project 1
 
 ## Team Name
 15058 Group 2 
@@ -24,7 +24,7 @@ UGA Amusement employs a large number of employees to manage park operations. For
 ## Data Model
 
 ## Data Dictionary
-CustomerTable.png
+![Customer Table](CustomerTable.png)
 
 ## Queries
 
