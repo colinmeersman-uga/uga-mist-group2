@@ -4,7 +4,7 @@ Data # Group 2 MIST 4610 Group Project 1
 15058 Group 2 
 
 ## Team Members
-- Colin Meersman cmm08294@uga.edu
+- Colin Meersman cmm08294@uga.edu https://github.com/colinmeersman-uga
 - Aaron Silverman https://github.com/abs87438
 - Sanjot Bodake ssb46835@uga.edu
 - Divya	Kadiyala dk94810@uga.edu
