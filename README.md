@@ -22,9 +22,9 @@ The park also has a variety of products for sale at the Gift Shop, which has its
 UGA Amusement employs a large number of employees to manage park operations. For each employee, the database stores ID, name, role, hire date, and salary. Each employee works in one department. The departments include an ID, name, location, budget, and phone number.
 
 ## Data Model
-**Explanation of Data Model:
-**
-Our model represents the structure of a hypothetical theme park and its various operations, attractions, and customer interactions.
+Explanation of Data Model
+
+Our model represents the structure of UGA Amusement and its various operations, attractions, and customer interactions.
 
 At the center of this model is the Customer entity, which stores details such as each customer’s name, email, and phone number. Customers are involved in nearly every area of the park’s system — buying tickets, attending shows, playing games, and making purchases — so this entity serves as a hub for multiple relationships.
 
