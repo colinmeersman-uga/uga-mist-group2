@@ -49,4 +49,12 @@ Altogether, this data model illustrates how guests interact with various aspects
 
 ## Queries
 
+<img width="827" height="793" alt="Screenshot 2025-10-21 114746" src="https://github.com/user-attachments/assets/aaa2867f-ea57-4145-b429-a08e09ee03d9" />
+
+<img width="334" height="517" alt="Screenshot 2025-10-21 115246" src="https://github.com/user-attachments/assets/cea4b8ec-721d-467b-ac1c-86ff2fec160e" />
+
+
+
+
+
 ## Database Information
