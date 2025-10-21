@@ -22,11 +22,11 @@ The park also has a variety of products for sale at the Gift Shop, which has its
 UGA Amusement employs a large number of employees to manage park operations. For each employee, the database stores ID, name, role, hire date, and salary. Each employee works in one department. The departments include an ID, name, location, budget, and phone number.
 
 ## Data Model
+<img width="1407" height="730" alt="Screenshot 2025-10-21 110521" src="https://github.com/user-attachments/assets/6d430ef9-36d7-47ee-a3fe-5d2f7e2f4150" />
 
 ## Data Dictionary
 ![Customer Table](CustomerTable.png)
 
 ## Queries
-<img width="1542" height="1161" alt="Screenshot 2025-10-13 154008" src="https://github.com/user-attachments/assets/9f1e0826-43b9-4d4b-8d23-2e715e5ade4a" />
 
 ## Database Information
