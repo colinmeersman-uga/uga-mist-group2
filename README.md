@@ -27,5 +27,6 @@ UGA Amusement employs a large number of employees to manage park operations. For
 ![Customer Table](CustomerTable.png)
 
 ## Queries
+<img width="1542" height="1161" alt="Screenshot 2025-10-13 154008" src="https://github.com/user-attachments/assets/9f1e0826-43b9-4d4b-8d23-2e715e5ade4a" />
 
 ## Database Information
