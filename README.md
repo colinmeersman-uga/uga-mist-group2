@@ -22,6 +22,9 @@ The park also has a variety of products for sale at the Gift Shop, which has its
 UGA Amusement employs a large number of employees to manage park operations. For each employee, the database stores ID, name, role, hire date, and salary. Each employee works in one department. The departments include an ID, name, location, budget, and phone number.
 
 ## Data Model
+Explanation of data model:
+
+
 
 ## Data Dictionary
 ![Customer Table](CustomerTable.png)
@@ -41,5 +44,6 @@ UGA Amusement employs a large number of employees to manage park operations. For
 ![Department Table](DepartmentTable.png)
 
 ## Queries
+
 
 ## Database Information
