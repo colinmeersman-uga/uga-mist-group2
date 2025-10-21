@@ -42,7 +42,7 @@ The Game and Gameplay entities represent the park’s arcade and game activities
 
 Altogether, this data model illustrates how guests interact with various aspects of the theme park — from rides, shows, and games to purchases and ticketing — while also representing how departments, employees, and retail operations support the park’s daily functions.
 
-<img width="1407" height="730" alt="Screenshot 2025-10-21 110521" src="https://github.com/user-attachments/assets/6d430ef9-36d7-47ee-a3fe-5d2f7e2f4150" />
+<img width="1385" height="729" alt="Screenshot 2025-10-21 113656" src="https://github.com/user-attachments/assets/d952648c-edc1-4bdd-98bc-bc1578cbd019" />
 
 ## Data Dictionary
 ![Customer Table](CustomerTable.png)
