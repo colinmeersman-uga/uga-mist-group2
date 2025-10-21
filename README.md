@@ -25,6 +25,20 @@ UGA Amusement employs a large number of employees to manage park operations. For
 
 ## Data Dictionary
 ![Customer Table](CustomerTable.png)
+![Ticket Table](TicketTable.png)
+![FastPass Table](FastPassTable.png)
+![Ride Table](RideTable.png) 
+![RideUsage Table](RideUsageTable.png)
+![Game Table](GameTable.png)
+![GamePlay Table](GamePlayTable.png)
+![Show Table](ShowTable.png)
+![ShowAttendance Table](ShowAttendanceTable.png)
+![Purchase Table](PurchaseTable.png)
+![Product Table](ProductTable.png)
+![purchaseProduct Table](PurchaseProductTable.png)
+![GiftShop Table](GiftShopTable.png)
+![Employee Table](EmployeeTable.png)
+![Department Table](DepartmentTable.png)
 
 ## Queries
 
