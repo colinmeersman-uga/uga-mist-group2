@@ -51,19 +51,27 @@ Altogether, this data model illustrates how guests interact with various aspects
 
 <img width="827" height="793" alt="Screenshot 2025-10-21 114746" src="https://github.com/user-attachments/assets/aaa2867f-ea57-4145-b429-a08e09ee03d9" />
 
+
 <img width="334" height="517" alt="Screenshot 2025-10-21 115246" src="https://github.com/user-attachments/assets/cea4b8ec-721d-467b-ac1c-86ff2fec160e" />
+
 
 <img width="570" height="547" alt="Screenshot 2025-10-21 200715" src="https://github.com/user-attachments/assets/c29a8214-31dd-4351-baeb-bc1504cf166e" />
 
+
 <img width="712" height="633" alt="image" src="https://github.com/user-attachments/assets/015fb5eb-3d7f-4161-bb8d-a2bbf7e3c856" />
+
 
 <img width="821" height="605" alt="image" src="https://github.com/user-attachments/assets/58c0e8dd-3e73-40e4-9745-e275b18419af" />
 
+
 <img width="620" height="599" alt="image" src="https://github.com/user-attachments/assets/0eb1e3b8-b745-4543-9521-3448316d2119" />
+
 
 <img width="748" height="658" alt="image" src="https://github.com/user-attachments/assets/0e31bfa0-842f-4fd0-9c73-4e8dc21e9963" />
 
+
 <img width="899" height="491" alt="image" src="https://github.com/user-attachments/assets/40dc2c04-7d79-42fc-a5e1-81a9a37c9049" />
+
 
 <img width="863" height="623" alt="image" src="https://github.com/user-attachments/assets/c3b1b0fb-5ab3-4f8b-9fe4-89e533b6b1d6" />
 
