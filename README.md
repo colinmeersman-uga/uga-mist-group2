@@ -64,6 +64,11 @@ Find all shows scheduled in the Sunset Dome area
 <img width="570" height="547" alt="Screenshot 2025-10-21 200715" src="https://github.com/user-attachments/assets/c29a8214-31dd-4351-baeb-bc1504cf166e" />
 
 
+Display the Type of Ticket sold and the amount of tickets for ticket types "VIP" and "Season Pass"
+
+<img width="550" height="441" alt="image" src="https://github.com/user-attachments/assets/26ada2f9-fb4c-4bf3-83b0-a4c1215fce36" />
+
+
 Which rides have been used the most by customers, and how often has each been used?
 
 This query helps management identify which rides attract the most guests throughout the park. Knowing which attractions are most popular allows managers to allocate resources such as maintenance teams, cleaning staff, and ride operators more effectively. Highly trafficked rides may need more frequent safety checks or longer operating hours. Conversely, rides with fewer uses may need promotional strategies or redesigns to boost interest. By ranking rides based on total usage, managers can prioritize investments in attractions that contribute most to guest satisfaction and park revenue.
