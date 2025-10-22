@@ -49,31 +49,47 @@ Altogether, this data model illustrates how guests interact with various aspects
 
 ## Queries
 
+List all rides available in the park, ordered by ride type
+
 <img width="827" height="793" alt="Screenshot 2025-10-21 114746" src="https://github.com/user-attachments/assets/aaa2867f-ea57-4145-b429-a08e09ee03d9" />
 
+
+List all products sold in the park's gift shops along with their category
 
 <img width="334" height="517" alt="Screenshot 2025-10-21 115246" src="https://github.com/user-attachments/assets/cea4b8ec-721d-467b-ac1c-86ff2fec160e" />
 
 
+Find all shows scheduled in the Sunset Dome area
 
 <img width="570" height="547" alt="Screenshot 2025-10-21 200715" src="https://github.com/user-attachments/assets/c29a8214-31dd-4351-baeb-bc1504cf166e" />
 
 
+This query helps management identify which rides attract the most guests throughout the park. Knowing which attractions are most popular allows managers to allocate resources such as maintenance teams, cleaning staff, and ride operators more effectively. Highly trafficked rides may need more frequent safety checks or longer operating hours. Conversely, rides with fewer uses may need promotional strategies or redesigns to boost interest. By ranking rides based on total usage, managers can prioritize investments in attractions that contribute most to guest satisfaction and park revenue.
 
 <img width="712" height="633" alt="image" src="https://github.com/user-attachments/assets/015fb5eb-3d7f-4161-bb8d-a2bbf7e3c856" />
 
 
+This query helps management identify high-value customers who contribute the most to merchandise and food sales within the park. These customers are prime candidates for loyalty programs, exclusive discounts, or early access to new attractions. From a marketing perspective, understanding who your top spenders are also provides insight into spending habits and preferences, allowing the park to tailor promotions or bundles that encourage repeat visits. In addition, managers can assess whether the most profitable customers are frequent visitors or one-time guests, which helps shape guest retention strategies.
+
 <img width="821" height="605" alt="image" src="https://github.com/user-attachments/assets/58c0e8dd-3e73-40e4-9745-e275b18419af" />
 
+
+This query helps the park’s entertainment and arcade managers measure the guest enjoyment of different games. A higher average score may indicate games that are both engaging and well-designed. These insights help managers identify which games to feature more prominently or which to replicate in new areas of the park. Conversely, games with low average scores may need to be rebalanced, updated, or replaced. From a strategic standpoint, understanding what guests find rewarding enhances the park’s overall entertainment value and can drive repeat visitation to the arcade area.
 
 <img width="620" height="599" alt="image" src="https://github.com/user-attachments/assets/0eb1e3b8-b745-4543-9521-3448316d2119" />
 
 
+ This query identifies which rides experience peak activity during the afternoon, a common time when guest traffic increases after lunch. This information helps managers optimize scheduling by ensuring that adequate staff are present at the most popular rides during these hours. It can also inform operational decisions such as maintenance timing, queue management, and promotional scheduling. Knowing afternoon demand patterns allows the park to reduce wait times, improve guest satisfaction, and boost operational efficiency during high-traffic hours.
+
 <img width="748" height="658" alt="image" src="https://github.com/user-attachments/assets/0e31bfa0-842f-4fd0-9c73-4e8dc21e9963" />
 
 
+This query allows park administrators and finance teams to identify departments exceeding their spending limits. Monitoring departmental budgets helps ensure financial discipline and efficient use of resources. Overspending could indicate operational inefficiencies, supply chain issues, or mismanagement. Detecting such issues early allows the park to take corrective action, such as re-evaluating procurement processes or adjusting future budget allocations. This promotes accountability and ensures that overall park expenses remain within financial goals.
+
 <img width="899" height="491" alt="image" src="https://github.com/user-attachments/assets/40dc2c04-7d79-42fc-a5e1-81a9a37c9049" />
 
+
+Entertainment managers can use this query to evaluate which live shows or performances attract the largest audiences. Popular shows may justify adding additional performance times, larger venues, or merchandise tie-ins. Conversely, shows with low attendance might need marketing adjustments or creative revamps. Understanding guest preferences allows the park to design entertainment that aligns with visitor expectations and boosts overall satisfaction.
 
 <img width="863" height="623" alt="image" src="https://github.com/user-attachments/assets/c3b1b0fb-5ab3-4f8b-9fe4-89e533b6b1d6" />
 
