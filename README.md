@@ -55,7 +55,9 @@ Altogether, this data model illustrates how guests interact with various aspects
 <img width="334" height="517" alt="Screenshot 2025-10-21 115246" src="https://github.com/user-attachments/assets/cea4b8ec-721d-467b-ac1c-86ff2fec160e" />
 
 
+
 <img width="570" height="547" alt="Screenshot 2025-10-21 200715" src="https://github.com/user-attachments/assets/c29a8214-31dd-4351-baeb-bc1504cf166e" />
+
 
 
 <img width="712" height="633" alt="image" src="https://github.com/user-attachments/assets/015fb5eb-3d7f-4161-bb8d-a2bbf7e3c856" />
