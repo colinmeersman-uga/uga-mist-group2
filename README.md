@@ -46,6 +46,19 @@ Altogether, this data model illustrates how guests interact with various aspects
 
 ## Data Dictionary
 ![Customer Table](CustomerTable.png)
+<img width="1304" height="648" alt="image" src="https://github.com/user-attachments/assets/ed4622f0-5e75-4c40-9d65-71dd1aa3ae86" />
+<img width="1300" height="570" alt="image" src="https://github.com/user-attachments/assets/98f05a03-a9a1-4d10-ad82-32f8de6e91a7" />
+<img width="1164" height="500" alt="image" src="https://github.com/user-attachments/assets/7f915962-bd57-4523-9c77-3ba765946d47" />
+<img width="1180" height="546" alt="image" src="https://github.com/user-attachments/assets/496dac0b-d5ab-44e4-9f16-22e667d10b16" />
+<img width="1428" height="538" alt="image" src="https://github.com/user-attachments/assets/0e4d5d87-e72c-450e-9018-e3f3e3053a03" />
+<img width="606" height="164" alt="image" src="https://github.com/user-attachments/assets/689601e1-2cb4-412b-b590-437f222e21d8" />
+<img width="1214" height="464" alt="image" src="https://github.com/user-attachments/assets/481d9862-1496-45fa-bdf9-22932ee44f39" />
+<img width="1434" height="576" alt="image" src="https://github.com/user-attachments/assets/fd633ca5-adb9-42b2-bdfa-8afacc5a9e0d" />
+
+
+
+
+
 
 ## Queries
 
