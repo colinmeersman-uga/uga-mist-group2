@@ -8,7 +8,7 @@ F25MIST4610_15058_Group2
 - Aaron Silverman abs87438@uga.edu - https://github.com/abs87438/uga-mist-group2
 - Sanjot Bodake ssb46835@uga.edu - https://github.com/sbodake1/MIST4610Project
 - Divya	Kadiyala dk94810@uga.edu - https://github.com/dk94810-lang/MIST-4610-
-- Laiba	Syed ls76725@uga.edu - 
+- Laiba	Syed ls76725@uga.edu - https://github.com/ls76725/uga-mist-group2
 
 ## Scenario Description
 A local amusement park, UGA Amusement, has asked you to design a database to manage information about its daily operations, attractions, and visitors. 
