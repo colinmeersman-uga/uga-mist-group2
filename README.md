@@ -73,7 +73,7 @@ This query helps park management quickly identify all thrill-oriented attraction
 <img width="533" height="525" alt="image" src="https://github.com/user-attachments/assets/f095058f-1611-4040-bd12-e4bdb44cfe46" />
 
 
-Q2. Find all shows scheduled in the Main Plaza area at 4 pm
+Q2. Find all shows scheduled in the Sunset Dome area at 4 pm
 
 Knowing how to find all shows scheduled in the Sunset Dome area at 4 p.m. is important because it allows event organizers, staff, and visitors to efficiently plan and manage their time. For staff, it ensures proper coordination of resources such as security, maintenance, and crowd control. For guests, it helps them make the most of their visit by easily locating entertainment options that fit their schedule. Overall, this information supports smooth event operations and enhances the overall visitor experience.
 
