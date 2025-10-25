@@ -63,7 +63,6 @@ Altogether, this data model illustrates how guests interact with various aspects
 
 
 
-
 ## Queries
 
 Q1. List all rides that have 'Coaster' or 'Mountain' in their name
@@ -135,6 +134,9 @@ This query can help managers identify which shops are doing the best, or where t
 
 <img width="1278" height="613" alt="image" src="https://github.com/user-attachments/assets/d628142d-e326-4a73-94fa-ca1dcb339352" />
 
+
+
+<img width="1044" height="580" alt="image" src="https://github.com/user-attachments/assets/2bf1456c-45fd-4ff8-ada6-6b976e97d36b" />
 
 
 ## Database Information
