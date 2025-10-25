@@ -135,8 +135,7 @@ This query can help managers identify which shops are doing the best, or where t
 <img width="1278" height="613" alt="image" src="https://github.com/user-attachments/assets/d628142d-e326-4a73-94fa-ca1dcb339352" />
 
 
-
-<img width="1044" height="580" alt="image" src="https://github.com/user-attachments/assets/2bf1456c-45fd-4ff8-ada6-6b976e97d36b" />
+<img width="1563" height="873" alt="image" src="https://github.com/user-attachments/assets/c6af64ee-d22d-409d-b74d-5ef9db8e2e21" />
 
 
 ## Database Information
