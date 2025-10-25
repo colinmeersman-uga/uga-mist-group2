@@ -139,7 +139,9 @@ This query can help managers identify which shops are doing the best, or where t
 ## Database Information
 
 Schema Name: ns_F25MIST4610_15058_Group2
+
 Group Name: F25MIST4610_15058_Group2
+
 
 Additional Notes: All Procedures have been stored within the database in the format"TP_Q1, TP_Q2, etc."
 
