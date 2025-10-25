@@ -1,7 +1,7 @@
 Data # Group 2 MIST 4610 Group Project 1
 
 ## Team Name
-15058 Group 2 
+F25MIST4610_15058_Group2
 
 ## Team Members
 - Colin Meersman cmm08294@uga.edu
