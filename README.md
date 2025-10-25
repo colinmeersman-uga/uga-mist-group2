@@ -101,10 +101,11 @@ This query helps management identify high-value customers who contribute the mos
 <img width="821" height="605" alt="image" src="https://github.com/user-attachments/assets/58c0e8dd-3e73-40e4-9745-e275b18419af" />
 
 
-Q6.  Employees Who Have Never Supervised Any Ride
+Q6. Show each game’s total number of players, average score, highest score, and the top-performing player’s name
 
-This query identifies employees who have never been assigned to supervise any rides. From a managerial perspective, this helps in assessing staff utilization and workload distribution. Managers can use this information to determine if certain employees are being underutilized and could be trained or assigned additional responsibilities to improve operational efficiency and ensure balanced staffing across all attractions.
+Analyzing game performance and player data is important because it helps park management understand which games are most engaging and profitable. By identifying the most popular games, average scores, and top players, managers can make data-driven decisions about where to allocate resources, schedule maintenance, or introduce new attractions. It also provides insights into customer preferences and participation trends, allowing the park to improve the overall guest experience and increase repeat visits.
 
+<img width="1872" height="714" alt="image" src="https://github.com/user-attachments/assets/91eb74b0-7a99-4686-ae53-4313c8a3f068" />
 
 
 
